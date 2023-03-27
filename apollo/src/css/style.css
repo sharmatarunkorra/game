@@ -151,6 +151,13 @@ p {
     .cardinnr {
         padding: 22px 20px 0;
     }	
+    .calculatescoreprogress .calculatescorecntntinnr .scoreheader h2 {
+        font-size: 17px;
+    }
+    .calculatescorecntnt {
+        max-width: 290px;
+        margin: 0 auto;
+    }
 	.frameablecardstepinnr {
 	    height: auto;
 	}
